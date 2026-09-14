@@ -1,0 +1,20 @@
+# youtube-fix
+
+> Актуальная версия с улучшенной поддержкой YouTube. Стабильнее, быстрее, надежнее
+
+YouTube тормозит из‑за DPI. youtube-fix обходит это на Windows 10/11 одним .bat файлом.
+
+## Страницы
+- Сайт: https://brandguideharbor.github.io/youtube-fix/
+- Релиз: https://github.com/brandguideharbor/youtube-fix/releases/latest
+- Исходный код: https://github.com/brandguideharbor/youtube-fix
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
